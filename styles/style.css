@@ -1,0 +1,81 @@
+body {
+    padding: 0;
+    margin: 0;
+    height: fit-content;
+    background-color: #EEEEEE;
+    font-family: Roboto;
+}
+
+.container {
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    width: 100%;
+}
+
+header {
+    position: fixed;
+    height: 84px;
+    width: 100%;
+    background-color: #007765;
+}
+
+header a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+ul {
+    width: content;
+    position: absolute;
+    margin: auto 0;
+    padding: 0;
+    padding-inline-start: 60%;
+    top: 28px;
+}
+
+li {
+    display: inline;
+    margin: 8px;
+}
+
+.logo {
+    position: relative;
+    width: 184px;
+    height: 45px;
+    top: 20px;
+    left: 20%;
+}
+
+img {
+    position: absolute;
+}
+
+.jumbotron {
+    height: 403px;
+    background-image: url(../images/jumbotron.png);
+}
+
+h1 {
+    
+    text-align: center;
+}
+
+.problem {
+    height: 719px;
+}
+
+.hero {
+    height: 483px;
+    background-image: url(../images/hero.png);
+}
+
+.ppc {
+    height: 845px;
+    background-color: #FFFFFF;
+}
+
+footer {
+    height: 176px;
+    background-color: #333333;
+}
